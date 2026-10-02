@@ -66,8 +66,8 @@ lunaris/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/JuanFeDS/lunaris_web.git
-cd lunaris_web
+git clone https://github.com/JuanFeDS/lunaris.git
+cd lunaris/web
 ```
 
 ### 2. Instalar dependencias
